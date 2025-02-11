@@ -1,4 +1,4 @@
-// Median slice numbers
+// Working with Slices
 
 package main
 

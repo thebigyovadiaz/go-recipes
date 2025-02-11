@@ -1,3 +1,5 @@
+// Panic Recovery
+
 package main
 
 import (

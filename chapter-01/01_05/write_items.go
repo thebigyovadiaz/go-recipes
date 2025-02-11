@@ -1,3 +1,5 @@
+// Interacting with files and using defer to manage resources
+
 package main
 
 import (

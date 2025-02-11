@@ -1,4 +1,4 @@
-// Working with file
+// Error Handling
 
 package main
 

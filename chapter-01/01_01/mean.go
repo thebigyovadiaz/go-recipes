@@ -1,4 +1,4 @@
-// Working with number
+// Working with numbers
 
 package main
 
